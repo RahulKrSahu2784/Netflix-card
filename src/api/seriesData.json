@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Lucifer",
+      "id" : "Lucifer",
+      "img_url" : "/Images/Lucifer.jpg",
+      "rating": "8.8",
+      "description":"'Lucifer' follows Lucifer Morningstar, the Devil, who abandons Hell and moves to Los Angeles to run a nightclub called Lux. He becomes an LAPD consultant, partnering with Detective Chloe Decker, to fight crime while grappling with his own identity and the complexities of human nature.",
+      "cast" :["Lucifer Morningstar","Chloe Decker"],
+      "genre" :["Romantic", "Comedy", "Fantasy"],
+      "watch_url" : "https://wwww.viki.com/tv/40466c-lovely-runner"
+    },
+    {
+        "name": "The Witcher",
+        "id" : "The Witcher",
+        "img_url" : "/Images/TheWitcher.avif",
+        "rating": "9.8",
+        "description":"Geralt of Rivia, a brooding professional monster hunter for hire also known as witcher, struggles to keep his humanity in a medieval dark fantasy world ruled by corrupt kings, queens and mages, where poverty, violence and intolerance are rampant.",
+        "cast" :["Geralt of Rivia","Yennefer"],
+        "genre" :["Romantic", "Horror", "Fantasy"],
+        "watch_url" : "https://wwww.viki.com/tv/40466c-lovely-runner"
+      },
+      {
+        "name": "Squid Game",
+        "id" : "Squid Game",
+        "img_url" : "/Images/SquidGame.jpg",
+        "rating": "8.2",
+        "description":"A political Godfather suddenly dies and many wish to take his place and gain his power; thieves begin to dress up as politicians to claim their stake, while one name gradually emerges to be the true replacement.",
+        "cast" :["Seong Gi-hun","Choi Seung-hyun"],
+        "genre" :["Romantic", "Comedy","Fantasy"],
+        "watch_url" : "https://wwww.viki.com/tv/40466c-lovely-runner"
+      },
+      {
+        "name": "Stranger Things",
+        "id" : "Stranger Things",
+        "img_url" : "/Images/StrangerThings.jpg",
+        "rating": "7.8",
+        "description":"A political Godfather suddenly dies and many wish to take his place and gain his power; thieves begin to dress up as politicians to claim their stake, while one name gradually emerges to be the true replacement.",
+        "cast" :["Millie Bobby Brown","Mike"],
+        "genre" :["Romantic", "Comedy","Fantasy"],
+        "watch_url" : "https://wwww.viki.com/tv/40466c-lovely-runner"
+      }
+]
