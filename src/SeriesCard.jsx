@@ -28,7 +28,6 @@ const SeriesCard = (props) => {
     <p>Cast: {cast.join(", ")}</p>
     <a href={watch_url} target="blank">
       <button style={btnStyle}>Watch Now</button>
-      <button style={btnStyle}>Watch Now</button>
     </a>
     </div>
     {/* <button>{age < 18 ? "Not Available" : "Watch Now"}</button> */}
