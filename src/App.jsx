@@ -20,6 +20,7 @@ import "./Netflix.css"
 function App() {
   return (
     <section className="container">
+      <h1 className="text-3xl font-bold underline">Rahul</h1>
       <h1 className='card-heading'>List of best NetFlix Series</h1>
         <NetflixSeries />
     </section>

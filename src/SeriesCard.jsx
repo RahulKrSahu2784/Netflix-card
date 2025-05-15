@@ -16,7 +16,7 @@ const SeriesCard = (props) => {
   // });
 
   // ------------styled components using Template literals-------------
-  const rahulStyle = styled.button`
+  const RahulStyle = styled.button`
       padding:1.2rem 2.4rem;
       border:none;
       font-size:1.6rem;
@@ -26,7 +26,7 @@ const SeriesCard = (props) => {
       cursor:pointer;
     `;
 
-  const styleh3 = styled.h3`
+  const Styleh3 = styled.h3`
     font-size: 1.6rem;
     color:red;
     text-transform: capitalize;
@@ -40,12 +40,12 @@ const SeriesCard = (props) => {
       </div>
       <div className='card-content'>
         <h2>Name: {name}</h2>
-        <styleh3>Rating: <span className={`rating ${ratingClass}`}> {rating} </span></styleh3>
+        <Styleh3>Rating: <span className={`rating ${ratingClass}`}> {rating} </span></Styleh3>
         <p>Summary: {description}</p>
         <p>Genre: {genre.join(", ")}</p>
         <p>Cast: {cast.join(", ")}</p>
         <a href={watch_url} target="blank">
-          <rahulStyle>Watch Now</rahulStyle>
+          <RahulStyle>Watch Now</RahulStyle>
         </a>
       </div>
       {/* <button>{age < 18 ? "Not Available" : "Watch Now"}</button> */}
